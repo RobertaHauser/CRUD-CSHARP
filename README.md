@@ -1,2 +1,2 @@
 # CRUD-CSHARP
-CRUD em C# com Visual Studio 20019
+CRUD em C# com Visual Studio 2019
